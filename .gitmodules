@@ -1,0 +1,6 @@
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/openssl/openssl.git
+[submodule "gnupg"]
+	path = gnupg
+	url = git://git.gnupg.org/gnupg.git
